@@ -1,0 +1,17 @@
+﻿<UserControl x:Name="KeyWord1" x:Class="Intellect_Battle__AnswerFinder_.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Intellect_Battle__AnswerFinder_"
+             mc:Ignorable="d" 
+             d:DesignHeight="26.032" d:DesignWidth="951.347">
+    <Grid Width="951" Height="26">
+        <TextBox x:Name="KeyWord" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Height="26" Width="951" Background="#FFFFAD00" CaretBrush="#FF005708" BorderBrush="#FF2DC700" SelectionBrush="#FF00FF0C" Foreground="#FF930000" UseLayoutRounding="False" HorizontalScrollBarVisibility="Disabled" OpacityMask="Black">
+            <TextBox.Effect>
+                <DropShadowEffect Color="#FFE4C500" ShadowDepth="0" BlurRadius="13"/>
+            </TextBox.Effect>
+        </TextBox>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,15 @@
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\bin\Debug\Intellect-Battle (AnswerFinder).exe.config
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\bin\Debug\Intellect-Battle (AnswerFinder).exe
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\bin\Debug\Intellect-Battle (AnswerFinder).pdb
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder).csprojResolveAssemblyReference.cache
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect_Battle__AnswerFinder_.AnswerFinder.resources
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect_Battle__AnswerFinder_.Properties.Resources.resources
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder).csproj.GenerateResource.Cache
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder).exe
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder).pdb
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder)_Content.g.cs
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder)_MarkupCompile.cache
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder).g.resources
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\TextBox.g.cs
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\Intellect-Battle (AnswerFinder)_MarkupCompile.lref
+D:\Моё\Программы\Microsoft VS 2015\Intellect-Battle (AnswerFinder)\Intellect-Battle (AnswerFinder)\obj\Debug\TextBox.baml
