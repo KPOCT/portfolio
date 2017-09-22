@@ -1,0 +1,16 @@
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.exe
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.pdb
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.exe
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.pdb
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.Timer.resources
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\ru\Timer.resources.dll
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\Timer.Timer.ru.resources
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\obj\Debug\ru\Timer.resources.dll
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.resx
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.ru.resx
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.cs
+D:\Моё\Программы\Microsoft VS 2015\Timer\Timer\bin\Debug\Timer.Designer.cs
